@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/souachar/StudioProjects/Todo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/souachar/StudioProjects/Todo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_189c1a602c1d1af6484ea6b3c230ab2c35a01955.jar" />
+    </item>
+    <item
+        jar="/Users/souachar/StudioProjects/Todo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0163ee8dc364bff1e1b7c3766c1c89e1cd28dc96">
+        <dex dex="/Users/souachar/StudioProjects/Todo/app/build/intermediates/pre-dexed/debug/instant-run_6b3946c9e1fc4140ea0b728a1ccd907258728814.jar" />
+    </item>
+    <item
+        jar="/Users/souachar/StudioProjects/Todo/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/souachar/StudioProjects/Todo/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.0.0_5534dd01a3787dbb7ad48e64e327fcd27a963c9f.jar" />
+    </item>
+    <item
+        jar="/Users/souachar/StudioProjects/Todo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/souachar/StudioProjects/Todo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_a473bbf34e097bfbacbae4e1e9bb28d061ae6793.jar" />
+    </item>
+    <item
+        jar="/Users/souachar/StudioProjects/Todo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/souachar/StudioProjects/Todo/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_5bd5c6e6b0ed9f45ce8c0fd7061dcf05b9fb866b.jar" />
+    </item>
+    <item
+        jar="/Users/souachar/StudioProjects/Todo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3061873c2be70b8f3f56395c75d0d902c00fe7b2">
+        <dex dex="/Users/souachar/StudioProjects/Todo/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_bfdae485a191b41f2f7148853216c50309382aa2.jar" />
+    </item>
+    <item
+        jar="/Users/souachar/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/souachar/StudioProjects/Todo/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_d7914aa35a4f5fed87d040e4a8019dfa21d4c901.jar" />
+    </item>
+    <item
+        jar="/Users/souachar/StudioProjects/Todo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/souachar/StudioProjects/Todo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_c1d7a04f5c99457fdee1bf223c620675b6d12b25.jar" />
+    </item>
+    <item
+        jar="/Volumes/Android Studio 2.1.2/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/souachar/StudioProjects/Todo/app/build/intermediates/pre-dexed/debug/commons-io-2.4_e37dc1cfc999486c873dd37d157f36ae387f65b3.jar" />
+    </item>
+    <item
+        jar="/Users/souachar/StudioProjects/Todo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/souachar/StudioProjects/Todo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_b52f6e1ba512819a8c292abffcc2a19bf649299a.jar" />
+    </item>
+    <item
+        jar="/Users/souachar/StudioProjects/Todo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/souachar/StudioProjects/Todo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.0.0_dce8d77385df776859d05682049f33ef52f2f099.jar" />
+    </item>
+
+</items>
